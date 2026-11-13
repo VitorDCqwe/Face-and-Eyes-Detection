@@ -1,5 +1,8 @@
 # Detecção de Rosto
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status-Concluído](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge&logoColor=white)
+
 Programa para detecção de rostos e olhos pela webcam
 
 ---
